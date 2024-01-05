@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/toggledtech/.github/main/profile/And%20Change%20the%20World.png)
 
-# Create Beautiful Sites in Seconds
-With Toggled creating a site that converts users has never been simpler...
+# Design Something Great... In seconds
+With Toggled creating a beautiful website has never been easier.
 
-Toggled allows you to make beautiful websites completely with markdown. Carbon also integrates directly into your favorite work environments such as GitHub and Replit.
+Toggled allows you to make beautiful websites with Markdown or HTML or both. Toggled also integrates directly into your favorite work environments such as GitHub and Replit.
 
-All our templates here are free to use and reproduce, we just ask that you don't sell them to make money.
+Visit our [starter repository](https://github.com/toggledtech/Toggled-Starter) to get started today.
 
-[Try Toggled Today](https://carbon.toggled.tech)
+[Try Toggled Today](https://toggled.tech)
