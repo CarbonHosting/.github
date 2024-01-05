@@ -1,4 +1,4 @@
-![]([https://extension-d34b7fe9-8f79-4da5-9d7d-b593e1f3f618.cosmixcom.repl.co/450shots_so.png](https://raw.githubusercontent.com/toggledtech/.github/main/profile/And%20Change%20the%20World.png))
+![](https://raw.githubusercontent.com/toggledtech/.github/main/profile/And%20Change%20the%20World.png)
 
 # Create Beautiful Sites in Seconds
 With Toggled creating a site that converts users has never been simpler...
