@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/toggledtech/.github/main/profile/And%20Change%20the%20World.png)
+![]([https://raw.githubusercontent.com/toggledtech/.github/main/profile/And%20Change%20the%20World.png](https://github.com/toggledtech/.github/blob/main/profile/Toggled-Patreon.png?raw=true))
 
-# Design Something Great... In seconds
+# Design Beautiful Documentation... Effortlessly
 With Toggled creating a beautiful website has never been easier.
 
 Toggled allows you to make beautiful websites with Markdown or HTML or both. Toggled also integrates directly into your favorite work environments such as GitHub and Replit.
